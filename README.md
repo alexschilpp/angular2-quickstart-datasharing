@@ -2,7 +2,7 @@
 
 This mini app demonstrates the following two types of data sharing in Angular2:
 
-1. Data sharing between sibling components via a service (*counting.service.ts*)
+1. Data sharing between sibling components via a service (*Counting Service*)
 2. Pass data from child to parent while parent listens for child event (*clicked*)
 
 ## Run the app
